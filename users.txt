@@ -1,1 +1,0 @@
-{"0": {"fio": "123", "login": "123", "password": "123", "is_admin": false, "check": []}}
