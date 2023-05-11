@@ -1,0 +1,1 @@
+{"0": {"product_name": "Блокнот", "amount": 1481, "price": 75}, "1": {"product_name": "Тетрадь", "amount": 1491, "price": 25}, "2": {"product_name": "Ручки", "amount": 1500, "price": 15}}
